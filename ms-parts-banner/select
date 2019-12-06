@@ -1,0 +1,1 @@
+SELECT * FROM "banners"  WHERE (id = '7c9b613891f54479b6ab45170cdf181e') ORDER BY "banners"."id" ASC LIMIT 1

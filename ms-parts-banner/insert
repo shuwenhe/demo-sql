@@ -1,0 +1,1 @@
+INSERT  INTO "banners" ("id","app","imag_url","order","link","color","client_type") VALUES ('15a2915c1f934ebd8ac480fa433940d2','mid','https://imgs.wanmen.org/123.png',2,'https://www.wanmen.org/courses/456','#0d008c',2) RETURNING "banners"."id"
